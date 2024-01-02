@@ -1,4 +1,9 @@
-# rp2040-freertos-template
-This is a template project for developing FreeRTOS based applications on Raspberry Pi RP2040 based boards. This template uses the "official" RP2040 port from the Raspberry Pi Foundation. My previous repo used the generic Cortex M0 port so this one corrects that. Previous Repo retained as tutorials rely on it. 
+# RC Car
+Software to control a RC car for Raspberry Pi Pico using FreeRTOS \
+Takes in input from RC receiver \
+Uses pulse width modulation (PWM) to control a motor to control motor speed and direction, and servomotor to control steering
+## To Run
+Open a linux terminal then type:\
+cd build\
+./run.sh
 
-Unmodified, this project will spawn a single task to rapidly blink the LED on and off.
