@@ -7,3 +7,7 @@ Open a linux terminal then type:\
 cd build\
 ./run.sh
 
+## Demo 
+
+https://github.com/jaspalr/RC-Car/assets/105681721/99e46e3c-640a-4bbd-aef5-d18dd299a4ce
+
